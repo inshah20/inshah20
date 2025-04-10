@@ -1,22 +1,14 @@
-# Hey there, I'm Inshah! 👋
+# 👩💻 Inshah's Coding Journey!
 
-🌐 **Web Designer** | 🎨 **UI/UX Enthusiast** | ⚡ **Learning JavaScript**
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-Welcome to my creative corner! I recently completed my web design journey and now diving deep into front-end development. 
+### My Progress
+🎨 **Web Design Mastered**  
+⚡ **Learning JavaScript**  
+✨ **Next Goal: React.js**  
 
-```javascript
-const currentFocus = {
-  languages: ["HTML", "CSS", "JavaScript"],
-  will learn: ["React", "Tailwind CSS"],
-  tools: ["VS Code", "Figma", "Git"]
-};
-
-### My Magic Tools  
-![icons](https://skillicons.dev/icons?i=html,css,js,figma,git,vscode)  
-
-### My Superpowers 🦸
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-🐱 **Fun Fact**: I'm currently turning coffee into code! ☕➡️💻
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+</p>
