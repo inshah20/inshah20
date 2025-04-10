@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there, I'm Inshah! 👋
 
-<!--
-**inshah20/inshah20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Web Designer** | 🎨 **UI/UX Enthusiast** | ⚡ **Learning JavaScript**
 
-Here are some ideas to get you started:
+Welcome to my creative corner! I recently completed my web design journey and now diving deep into front-end development. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const currentFocus = {
+  languages: ["HTML", "CSS", "JavaScript"],
+  will learn: ["React", "Tailwind CSS"],
+  tools: ["VS Code", "Figma", "Git"]
+};
+
+### My Magic Tools  
+![icons](https://skillicons.dev/icons?i=html,css,js,figma,git,vscode)  
+
+### My Superpowers 🦸
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+🐱 **Fun Fact**: I'm currently turning coffee into code! ☕➡️💻
